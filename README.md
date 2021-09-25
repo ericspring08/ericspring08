@@ -10,3 +10,6 @@ I am a fullstack engineer, app developer, data scientist, and student from Dalla
 [<img align="left" alt="stack-overflow" src="https://cdn2.iconfinder.com/data/icons/social-icons-33/128/Stack_Overflow-1024.png" height = 48 width = 48/>](https://stackoverflow.com/users/14082196/eric-zhang)
 
 [<img align="left" alt="reddit" src="https://cdn3.iconfinder.com/data/icons/2018-social-media-logotypes/1000/2018_social_media_popular_app_logo_reddit-1024.png" height = 48 width = 48/>](https://www.reddit.com/user/Theric08)
+
+## Expertise 
+<img align="left" alt="react" src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-1024.png" height = 30 width = 30/>

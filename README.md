@@ -15,4 +15,5 @@ I am a fullstack engineer, app developer, data scientist, and student from Dalla
 <br>
 
 ## Expertise 
-![]<img align="left" alt="react" src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-1024.png" height = 48 width = 48/>
+<img align="left" alt="react" src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-1024.png" height = 48 width = 48/>
+<img align="left" alt="express" src="https://ih1.redbubble.net/image.438908244.6144/st,small,507x507-pad,600x600,f8f8f8.u2.jpg" height = 48 width = 48/>

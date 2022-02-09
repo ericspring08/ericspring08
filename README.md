@@ -1,7 +1,8 @@
-### Hello World 👋
+### Hello, I'm Eric Zhang 👋
 I am a fullstack engineer, app developer, data scientist, and student from Dallas, Texas
-- 🔭 Working on multiple frontend and backend project using React and Nodejs
+- 🔭 Working on multiple frontend and backend project using React, Nodejs, and Django
 - 🧠 Working on various machine learning projects using pytorch and tensorflow
+- 📱  Building various IOS and Android apps using UIKit, Android Java, and Flutter 
 <br>
 
 ## Connect with me
@@ -14,6 +15,3 @@ I am a fullstack engineer, app developer, data scientist, and student from Dalla
 <br>
 <br>
 
-## Expertise 
-<img align="left" alt="react" src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-1024.png" height = 48 width = 48/>
-<img align="left" alt="express" src="https://ih1.redbubble.net/image.438908244.6144/st,small,507x507-pad,600x600,f8f8f8.u2.jpg" height = 48 width = 48/>

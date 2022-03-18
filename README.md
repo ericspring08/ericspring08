@@ -14,4 +14,10 @@ I am a fullstack engineer, app developer, data scientist, and student from Dalla
 
 <br>
 <br>
+<br>
 
+Codeforces Handle: [ericspring08](https://codeforces.com/profile/ericspring08)
+<br>
+Kattis Handle: [eric-zhang36](https://open.kattis.com/users/eric-zhang36)
+<br> 
+Leetcode Handle: [theric](https://leetcode.com/ericspring08/)

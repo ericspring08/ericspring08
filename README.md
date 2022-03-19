@@ -16,6 +16,11 @@
 
 ## About Me
 I am a fullstack engineer, app developer, data scientist, and student from Dallas, Texas
+* 🕸️ I build websites and web applications. 
+* 📱 I build IOS and Android applications.
+* 🧠 I build machine learning models.
+
+## Compeitive Programming
 
 Codeforces Handle: [ericspring08](https://codeforces.com/profile/ericspring08)
 <br>

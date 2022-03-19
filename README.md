@@ -2,7 +2,7 @@
 I am a fullstack engineer, app developer, data scientist, and student from Dallas, Texas
 - 🔭 Working on multiple frontend and backend project using React, Nodejs, and Django
 - 🧠 Working on various machine learning projects using pytorch and tensorflow
-- 📱  Building various IOS and Android apps using UIKit, Android Java, and Flutter 
+- 📱 Building various IOS and Android apps using UIKit, Android Java, and Flutter 
 <br>
 
 ## Connect with me

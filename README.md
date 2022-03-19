@@ -24,6 +24,7 @@ Kattis Handle: [eric-zhang36](https://open.kattis.com/users/eric-zhang36)
 Leetcode Handle: [theric](https://leetcode.com/ericspring08/)
 
 ## My Stats
+[![Eric's GitHub stats](https://github-readme-stats.vercel.app/api?username=ericspring08)](https://github.com/anuraghazra/github-readme-stats)
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ericspring08&theme=dark&background=000000&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ericspring08&layout=compact&theme=vision-friendly-dark)]()

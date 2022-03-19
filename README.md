@@ -10,6 +10,9 @@
   <a href = "https://www.reddit.com/user/Theric08">
   <img alt="reddit" src="https://cdn3.iconfinder.com/data/icons/2018-social-media-logotypes/1000/2018_social_media_popular_app_logo_reddit-1024.png" height   = 25 width = 25/>
   </a>
+  <a href = "mailto:ericspring08@gmail.com">
+    <img src = "https://cdn-icons-png.flaticon.com/512/732/732200.png" height = 25 width = 25></img>
+  </a>
 </div>
 
 # <div align = "center">Hello, I'm Eric Zhang 👋</div>
@@ -19,6 +22,35 @@ I am a fullstack engineer, app developer, data scientist, and student from Dalla
 * 🕸️ I build websites and web applications. 
 * 📱 I build IOS and Android applications.
 * 🧠 I build machine learning models.
+
+## My Skillset
+### Languages
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width = 80 height = 80/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width = 80 height = 80/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width = 80 height = 80/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" width = 80 height = 80/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width = 80 height = 80/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width = 80 height = 80/>
+</div>
+
+### Frameworks & Technologies
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width = 80 height = 80/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg" width = 80 height = 80/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width = 80 height = 80/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" width = 80 height = 80/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width = 80 height = 80/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width = 80 height = 80/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width = 80 height = 80/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width = 80 height = 80/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width = 80 height = 80/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width = 80 height = 80/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width = 80 height = 80/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width = 80 height = 80/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width = 80 height = 80/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width = 80 height = 80/>
+</div>
 
 ## Compeitive Programming
 

@@ -13,6 +13,9 @@
   <a href = "mailto:ericspring08@gmail.com">
     <img src = "https://cdn-icons-png.flaticon.com/512/732/732200.png" height = 25 width = 25></img>
   </a>
+  <a href = "https://twitter.com/EricZhang08">
+    <img src = "https://cdn-icons.flaticon.com/png/512/3256/premium/3256013.png?token=exp=1647797251~hmac=744be786ab4c6178129a1c18e1d8cec7" height = 25 width = 25/>
+  </a>
 </div>
 
 # <div align = "center">Hello, I'm Eric Zhang 👋</div>

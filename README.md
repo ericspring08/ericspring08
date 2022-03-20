@@ -1,4 +1,4 @@
-<div align = "center"><img src = "https://media1.giphy.com/media/RN8FdaB6T1bkkI5n4I/giphy.gif?cid=ecf05e472rjntdztpobxrq34yw8a7h2psd71zctu1sl4vh44&rid=giphy.gif&ct=s" width = 150 height = 150></div>
+<div align = "center"><img src = "https://media1.giphy.com/media/RN8FdaB6T1bkkI5n4I/giphy.gif?cid=ecf05e472rjntdztpobxrq34yw8a7h2psd71zctu1sl4vh44&rid=giphy.gif&ct=s" width = 300 height = 300></div>
 
 <div align = "center">
   <a href = "https://www.linkedin.com/in/eric-zhang-08/">

@@ -1,7 +1,6 @@
 <div align = "center"><img src = "https://media1.giphy.com/media/RN8FdaB6T1bkkI5n4I/giphy.gif?cid=ecf05e472rjntdztpobxrq34yw8a7h2psd71zctu1sl4vh44&rid=giphy.gif&ct=s" width = 300 height = 300></div>
 
 <div align = "center">
-  <img src = "https://gpvc.arturio.dev/ericspring08" height = 28></img>
   
   <a href = "https://www.linkedin.com/in/eric-zhang-08/">
     <img alt="linked-in" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -19,6 +18,8 @@
     <img src = "https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
   </a>
 </div>
+
+<div align = "center"><img src = "https://gpvc.arturio.dev/ericspring08"></img></div>
 
 # <div align = "center">Hello, I'm Eric Zhang 👋</div>
 

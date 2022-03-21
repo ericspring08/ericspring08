@@ -1,20 +1,22 @@
 <div align = "center"><img src = "https://media1.giphy.com/media/RN8FdaB6T1bkkI5n4I/giphy.gif?cid=ecf05e472rjntdztpobxrq34yw8a7h2psd71zctu1sl4vh44&rid=giphy.gif&ct=s" width = 300 height = 300></div>
 
 <div align = "center">
+  <img src = "https://gpvc.arturio.dev/ericspring08" height = 28></img>
+  
   <a href = "https://www.linkedin.com/in/eric-zhang-08/">
-    <img alt="linked-in" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-256.png" height = 25 width =     25/>
+    <img alt="linked-in" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href = "https://stackoverflow.com/users/14082196/eric-zhang">
-  <img alt="stack-overflow" src="https://cdn2.iconfinder.com/data/icons/social-icons-33/128/Stack_Overflow-1024.png" height = 25 width = 25/>
+  <img alt="stack-overflow" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/>
   </a>
   <a href = "https://www.reddit.com/user/Theric08">
-  <img alt="reddit" src="https://cdn3.iconfinder.com/data/icons/2018-social-media-logotypes/1000/2018_social_media_popular_app_logo_reddit-1024.png" height   = 25 width = 25/>
+  <img alt="reddit" src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white"/>
   </a>
   <a href = "mailto:ericspring08@gmail.com">
-    <img src = "https://cdn-icons-png.flaticon.com/512/732/732200.png" height = 25 width = 25></img>
+    <img src = "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></img>
   </a>
   <a href = "https://twitter.com/EricZhang08">
-    <img src = "https://cdn-icons.flaticon.com/png/512/3256/premium/3256013.png?token=exp=1647797251~hmac=744be786ab4c6178129a1c18e1d8cec7" height = 25 width = 25/>
+    <img src = "https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
   </a>
 </div>
 

@@ -76,3 +76,5 @@ Leetcode Handle: [theric](https://leetcode.com/ericspring08/)
 
 ## My Works
 ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ericspring08&repo=AAHC-Alert&theme=highcontrast)
+<br>
+![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ericspring08&repo=randomapi&theme=highcontrast)

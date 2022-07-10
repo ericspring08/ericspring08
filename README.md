@@ -42,6 +42,8 @@ I am a fullstack engineer, app developer, data scientist, and student from Dalla
 
 ## My Stats
 
+![Contribution](https://activity-graph.herokuapp.com/graph?username=ericspring08&theme=react-dark&hide_border=true&area=true)
+
 [![Eric's GitHub stats](https://github-readme-stats.vercel.app/api?username=ericspring08&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ericspring08&theme=dark&background=000000&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)

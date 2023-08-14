@@ -19,8 +19,6 @@
   </a>
 </div>
 
-<div align = "center"><img src = "https://gpvc.arturio.dev/ericspring08"></img></div>
-
 # <div align = "center">Hello, I'm Eric Zhang 👋</div>
 
 ## About Me
@@ -41,8 +39,6 @@ I am a fullstack engineer, app developer, data scientist, and student from Dalla
 </div>
 
 ## My Stats
-
-![Contribution](https://activity-graph.herokuapp.com/graph?username=ericspring08&theme=react-dark&hide_border=true&area=true)
 
 [![Eric's GitHub stats](https://github-readme-stats.vercel.app/api?username=ericspring08&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
 

@@ -5,12 +5,6 @@
   <a href = "https://www.linkedin.com/in/eric-zhang-08/">
     <img alt="linked-in" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href = "https://stackoverflow.com/users/14082196/eric-zhang">
-  <img alt="stack-overflow" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/>
-  </a>
-  <a href = "https://www.reddit.com/user/Theric08">
-  <img alt="reddit" src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white"/>
-  </a>
   <a href = "mailto:ericspring08@gmail.com">
     <img src = "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></img>
   </a>

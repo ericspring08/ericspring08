@@ -7,7 +7,7 @@
 # <div align = "center">Hello, I'm Eric Zhang 👋</div>
 
 ## About Me
-I am a fullstack engineer, app developer, data scientist, and researcher. I go to school at St. Mark's School of Texas and work as a research intern at the University of Texas at Dallas.
+I am a fullstack engineer, app developer, data scientist, and researcher. I go to school at St. Mark's School of Texas and work as a research intern at the University of Texas at Dallas with [@UTD Fast Lab](https://github.com/UTD-FAST-Lab).
 
 I love to build:
 * 📱 IOS and Android Apps

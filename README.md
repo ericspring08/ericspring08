@@ -7,10 +7,17 @@
 # <div align = "center">Hello, I'm Eric Zhang 👋</div>
 
 ## About Me
-I am a fullstack engineer, app developer, data scientist, and student from Dallas, Texas
-* 🕸️ I build websites and web applications. 
-* 📱 I build IOS and Android applications.
-* 🧠 I build machine learning models.
+I am a fullstack engineer, app developer, data scientist, and researcher. I go to school at St. Mark's School of Texas and work as a research intern at the University of Texas at Dallas.
+
+I love to build:
+* 📱 IOS and Android Apps
+* 🌐 Web Apps
+* 🤖 Machine Learning and Artificial Intelligence
+  
+I am currently researching:
+* 🔍 Static Analysis
+* ⛏️ Mining Software Repositories
+* 🎲 Fuzz Testing
 
 ## My Skillset
 ### Languages
